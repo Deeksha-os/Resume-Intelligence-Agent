@@ -49,5 +49,5 @@ The project follows a modular **Agentic Workflow**:
    ```bash
    streamlit run app.py
 
-**Link of working Streamlit:** https://resume-intelligence-agentgit-y5inoyxdykqetrks6vdqio.streamlit.app/
+
    
